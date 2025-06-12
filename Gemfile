@@ -65,3 +65,5 @@ group :test do
 end
 
 gem "phlex-rails", "~> 2.3"
+
+gem "pg", "~> 1.5"
